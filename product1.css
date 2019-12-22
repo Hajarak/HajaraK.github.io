@@ -1,0 +1,19 @@
+.imgsize{
+	width:10%;
+}
+.footer-wrap{
+	background-color:#72a06a;
+	opacity:0.8;
+	margin-top:4%;
+}
+.conn{
+	margin-top: 8%;
+	animation:swing;
+}
+.bg-color{
+	background-color:#72a06a; 
+}
+.font-fam1{
+	font-family: 'Lobster', cursive;
+	/*font-size: 100px;*/
+}

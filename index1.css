@@ -1,0 +1,37 @@
+body{
+	background-image:url("../aif project/new/bcknew.jpg");
+}
+.font-fam1{
+	font-family: 'Lobster', cursive;
+	font-size: 100px;
+}
+.font-fam2{
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 100px;
+}
+.font-fam3{
+	font-family: 'Courgette', cursive;
+	font-size: 20px;
+}
+.button1{
+	border-radius:13%;
+	border:1px;
+}
+.text{
+	margin:10%;
+}
+.imgsize{
+	width:10%;
+}
+.nav-bar{
+	border-bottom:1px solid grey;
+}
+.nav-item a{
+	color:black;
+}
+button a{
+	color:black;
+}
+button a:hover{
+	color:black;
+}

@@ -1,0 +1,63 @@
+@media(min-width:769px){
+.slider-section .bx-wrapper img {
+    max-height: 368px;
+}
+}
+
+
+.card-title{
+	font-size: 7vw;
+    color: #fff;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 700;
+    line-height: 2;
+    letter-spacing: .05rem;
+    text-transform: uppercase;
+    text-shadow: 1px 2px 3px #666;
+    text-align: center; 
+}
+.size{
+	height:50px;
+	width:100%;
+}
+.row{
+	font:white;
+
+
+}
+.bg-color{
+	background-color:#72a06a; 
+}
+.section{
+	margin: 10%;
+}
+footer{
+	background-image: url("farm_website/kit.jpg");
+	/*background-repeat: no-repeat;
+	background-size: cover;*/
+	height: inherit;
+	width: 100%;
+}
+
+.column{
+	float: left;
+	width: 15%;
+	padding: 100px;
+	margin-right: 50px;
+}
+.row::after{
+	content: "";
+	clear: both;
+	display: table;
+}
+.imgsize{
+	width:10%;
+}
+ 
+.imgh{
+	width:100%;
+	margin-top:2%;
+}
+.a{
+	margin-top:2%;
+}
